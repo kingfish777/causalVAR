@@ -1,3 +1,3 @@
 
-These scripts demonstrate how to perform Structured Vector Autoregression
+These scripts demonstrate how to perform Vector Autoregression
 
